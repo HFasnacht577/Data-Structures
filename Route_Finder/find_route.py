@@ -72,8 +72,6 @@ def find_route(start_city, end_city, all_flights, all_cities):
         if last_city == end_city:
             final = []
             final2 = []
-            total = 0
-            prices = []
             while route.size() != 0:
                 city = route.pop()
                 final.append(city[0])
