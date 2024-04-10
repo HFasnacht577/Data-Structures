@@ -1,0 +1,25 @@
+Bangalore,Be'er Sheva
+Taixing,Zhengzhou
+Yingkou,Singapore
+Hanzhong,Athens
+Merida,Dublin
+Athens,Shenzhen
+Firozabad,Kano
+Ouagadougou,Rabat
+Krasnoyarsk,Kolkata
+Yuxi,La Paz
+Chongjin,Durban
+Shanghai,Bazhong
+Portland,Huizhou
+Ezhou,Sacramento
+The Hague,Zhangjiagang
+Utrecht,Santa Marta
+Mekele,San Diego
+Yongzhou,Durban
+Uyo,Bloemfontein
+Recife,Incheon
+Qinhuangdao,Morelia
+Ji-nan Shandong,Duisburg
+Surat,Nottingham
+Paris,Jining Shandong
+La Laguna,Mwanza
