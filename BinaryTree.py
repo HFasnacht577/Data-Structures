@@ -98,7 +98,7 @@ class BinaryTree:
         Returns:
             int: height of highest branch
         """
-        if current_node == 1:
+        if current_node is 1:
             current_node = self.root
 
         if current_node is None:
