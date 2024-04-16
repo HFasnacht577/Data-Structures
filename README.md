@@ -1,4 +1,6 @@
-# Data-Structures
+# School
 
-Folder for all data structure implementations.
+Folder for all school projects:
+* Data Structures
+* AI
 
