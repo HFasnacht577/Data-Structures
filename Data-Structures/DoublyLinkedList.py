@@ -2,7 +2,7 @@ class Node():
 
     def __init__(self,item):
         """
-        The initializing method that defines the values of next,previous, and the node itself
+        The initializing method that defines the values of next, previous, and the node itself
         :param item: the item being assigned to the node
         """
         self.data = item
@@ -12,7 +12,7 @@ class Node():
     def get_data(self):
         """
         a method that returns the data held by the node
-        :return: the nodes data
+        :return: the node's data
         """
         return self.data
 
